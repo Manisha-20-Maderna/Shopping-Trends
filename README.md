@@ -20,8 +20,8 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ### 1️⃣ Top Categories Purchased
 ---
-
-   <img src="Screenshot_visualizations/Age_ditribution_of_customers.png" alt="Age_ditribution_of_customers" width="800"/>
+<img src="Screenshot_visualizations/Age_distribution_of_customers.png" alt="Top Categories Purchased" width="800"/>
+ 
    
 ---
 - Clothing is the most purchased category, followed by Accessories, Footwear, and Outerwear.
