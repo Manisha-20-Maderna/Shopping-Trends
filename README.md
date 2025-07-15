@@ -66,12 +66,6 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ---
 
-## 📦 Dataset Source
-
-> [Kaggle: Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
-(Replace this with your real dataset link if different.)
-
----
 
 ## 🧰 Technologies Used
 
@@ -84,9 +78,3 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ---
 
-## 🚀 How to Run the Project
-
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/your-username/shopping-trend-analysis.git
-   cd shopping-trend-analysis
