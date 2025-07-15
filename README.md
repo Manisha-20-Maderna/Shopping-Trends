@@ -40,7 +40,7 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ### 3️⃣ Purchase Amount by Category
 
- <img src="Screenshot_visualizations/Purchas_ammount_by_category.png" alt=" Purchase Amount by Category" width="800"/>
+ <img src="Screenshot_visualizations/Purchase_ammount_by_category.png" alt=" Purchase Amount by Category" width="800"/>
 
 - All categories have similar median purchase amounts (~$60).
 - Footwear and Clothing show wider spending ranges.
