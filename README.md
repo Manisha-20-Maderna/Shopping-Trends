@@ -20,8 +20,8 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ### 1️⃣ Top Categories Purchased
 ---
-<img src="Screenshot_visualizations/Age_distribution_of_customers.png" alt="Top Categories Purchased" width="800"/>
- 
+
+ <img src="Screenshot_visualizations/Categories_purchased.png" alt="Top Categories Purchased" width="800"/>
    
 ---
 - Clothing is the most purchased category, followed by Accessories, Footwear, and Outerwear.
@@ -31,7 +31,7 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ### 2️⃣ Gender Distribution
 
-![Gender Distribution](./634b5ac3-f5e1-4775-b737-406ec4a1dac0.png)
+<img src="Screenshot_visualizations/Gender_destribution.png" alt=" Gender Distribution" width="800"/>
 
 - Male customers account for 68% of purchases.
 - Female customers make up 32%, suggesting potential to target underrepresented buyers.
@@ -40,7 +40,7 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ### 3️⃣ Purchase Amount by Category
 
-![Purchase Amount by Category](./cacebaf1-e3d4-458e-9faa-946e83a626c3.png)
+ <img src="Screenshot_visualizations/Purchas_ammount_by_category.png" alt=" Purchase Amount by Category" width="800"/>
 
 - All categories have similar median purchase amounts (~$60).
 - Footwear and Clothing show wider spending ranges.
@@ -49,7 +49,7 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ### 4️⃣ Age Distribution of Customers
 
-![Age Distribution of Customers](./73a67520-de51-400b-b43c-ad43e001a242.png)
+<img src="Screenshot_visualizations/Age_distribution_of_customers.png" alt=" Age Distribution of Customers" width="800"/>
 
 - Customers between 25–60 years are the most active.
 - Consistent engagement across adult age groups indicates wide appeal.
@@ -58,7 +58,8 @@ These insights can help businesses design targeted marketing strategies, improve
 
 ### 5️⃣ Review Rating vs Purchase Amount
 
-![Review Rating vs Purchase Amount](./5fa462f1-211a-41d8-9814-3b9cc51282c5.png)
+<img src="Screenshot_visualizations/Review_rating.png" alt="Review Rating vs Purchase Amount " width="800"/>
+
 
 - Spending levels are scattered across all rating values.
 - No clear correlation between satisfaction (rating) and amount spent.
